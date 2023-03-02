@@ -1,6 +1,5 @@
 # Laboratorinis_1 V0.2
-Yra dvi programos versijos, vienoje naudojami masyvai, kitoje naudojami vektoriai.<br>
-**Versija su masyvais:**
+
 
 <ul>
 <li>Vartotojas pasirenka ar duomenis planuoja įrašyti pats, ar nori, kad jie būtų skaitomi iš failo.</li>
